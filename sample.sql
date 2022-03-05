@@ -1,3 +1,12 @@
+mysql -u root -p
+GRANT ALL PRIVILEGES ON PBD.* TO 'proyect'@'localhost' IDENTIFIED BY '1234' WITH GRANT OPTION;
+exit
+
+mysql -u proyect -p
+
+CREATE DATABASE PBD;
+USE PBD;
+
 CREATE TABLE AGENTES
    (	
     	CODIGO VARCHAR(6), 
