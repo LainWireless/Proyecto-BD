@@ -1,6 +1,6 @@
 ENUNCIADOS:
 
-- Listar información: Listar nombre de los clientes y cuantos pedidos han hecho.
+- Listar información: Listar nombre de los clientes y cuantos clientes hay.
 - Buscar o filtrar información: Mostrar el código de los pedidos, junto al nombre del cliente y el nombre del agente cuyo precio del pedido sea igual o mayor al introducido por teclado.
 - Buscar información relacionada: Busca nombre de un agente y te muestra cuanto ha ganado por cada pedido que haya conseguido cerrar.
   Se mostrará el código del pedido, el precio del pedido y la parte que le corresponderá al agente teniendo en cuenta cual es su porcentaje de comisión.
